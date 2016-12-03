@@ -1,0 +1,20 @@
+* Linker file for IOFSL (IOFLIN/STR)
+*
+filetype 0
+dir win1_asm_
+*
+program bas_tk_io_IOFSL_bin
+*
+input bas_tk_io_IofKey_rel
+*
+input bas_sbu_par_getpars_rel
+input bas_sbu_chan_gtchan_rel
+*
+input bas_tk_io_IOFSL_iofstr_rel
+*
+* Return integer to BASIC
+input bas_sbu_mem_resrir_rel
+input bas_sbu_mem_resri_rel
+*
+input bas_sbu_ret_bplet_rel
+*

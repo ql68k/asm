@@ -1,0 +1,27 @@
+Assembler sources, link files, documents, and resulting binaries
+
+Outline of directory structure:
+
+asm
+	bas
+		tk
+			io
+				IOFSL
+				...
+			...
+		...
+		sbu
+			chan
+			mem
+			par
+			ret
+			...
+	gut
+		cv
+		...
+	app
+		...
+
+bas
+	prg
+	...

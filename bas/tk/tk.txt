@@ -1,0 +1,15 @@
+S*BASIC extension toolkits, each contained in it own directory:
+
+TOOL
+	Link file
+	Assembler files unique to this toolkit, eg:
+		Key file
+		Main assembler linkage file(s)
+	Readme
+	License
+	History
+	Manual
+	Binary
+		(if possible. QDOS fileheaders may not compute in alien
+		environments)
+	Zip archive of distribution toolkit (with or without sources, etc)
